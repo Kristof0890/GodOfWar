@@ -1,0 +1,1 @@
+console.log("God of War oldal betöltve");

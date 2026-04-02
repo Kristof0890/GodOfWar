@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: black;
+  color: white;
+  font-family: Arial;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  background: black;
+  padding: 15px;
+}
+
+nav a {
+  color: red;
+  margin: 10px;
+}
+
+.hero {
+  height: 100vh;
+  background: url('images/kratos.jpg') center/cover;
+}
